@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="491" height="465" viewBox="0 0 491 465">
+  <g fill="none" fill-rule="evenodd">
+    <path stroke="#EB593C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M119.5 104L100 33l92 44z"/>
+    <path stroke="#EB593C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M119.5 104L100 33 49 96zm0 0L71 158 49 96z"/>
+    <path stroke="#EB593C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M7 149l64 9-22-62zm0 0l64 9-32 75zm81.5 91.5L71 158l-32 75zm0 0l-33 68.5L39 233z"/>
+    <path stroke="#EB593C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M4 309h51.5L39 233zm0 0h51.5l10 64zm113.5 64v51.5l-52-51.5zm0 0v51.5L178 397zm155-336L205 4l-13 73zm0 0l-9 72L192 77zm0 0L319 88.5l39-55zm130 51.5H319l39-55zm0 0H319l41.75 53zm0 0l41 60-82.75-7zM487 167l-43.5-18.5 8 93zm-9 140h-61l34.5-65.5zm0 0h-61l30.5 62z"/>
+    <path stroke="#EB593C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M391 380l26-73 30.5 62zm0 0l-55.5-4.5 16 60z"/>
+    <path stroke="#EB593C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M283 414.5l52.5-39 16 60zm0 0l-34.5-41-30 65.5zm0 0l5.5 46-70-21.5z"/>
+    <path stroke="#EB593C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M283 414.5l5.5 46 64-23zm-105-18l70.5-23-30 65.5z"/>
+    <circle cx="101" cy="35" r="5" fill="#EB593C"/>
+    <circle cx="119" cy="103" r="5" fill="#EB593C"/>
+    <circle cx="50" cy="96" r="5" fill="#EB593C"/>
+    <circle cx="71" cy="158" r="5" fill="#EB593C"/>
+    <circle cx="8" cy="148" r="5" fill="#EB593C"/>
+    <circle cx="39" cy="233" r="5" fill="#EB593C"/>
+    <circle cx="87" cy="240" r="5" fill="#EB593C"/>
+    <circle cx="56" cy="309" r="5" fill="#EB593C"/>
+    <circle cx="5" cy="309" r="5" fill="#EB593C"/>
+    <circle cx="66" cy="373" r="5" fill="#EB593C"/>
+    <circle cx="118" cy="373" r="5" fill="#EB593C"/>
+    <circle cx="118" cy="423" r="5" fill="#EB593C"/>
+    <circle cx="177" cy="397" r="5" fill="#EB593C"/>
+    <circle cx="248" cy="375" r="5" fill="#EB593C"/>
+    <circle cx="219" cy="438" r="5" fill="#EB593C"/>
+    <circle cx="284" cy="414" r="5" fill="#EB593C"/>
+    <circle cx="288" cy="460" r="5" fill="#EB593C"/>
+    <circle cx="352" cy="437" r="5" fill="#EB593C"/>
+    <circle cx="335" cy="376" r="5" fill="#EB593C"/>
+    <circle cx="391" cy="380" r="5" fill="#EB593C"/>
+    <circle cx="417" cy="308" r="5" fill="#EB593C"/>
+    <circle cx="447" cy="369" r="5" fill="#EB593C"/>
+    <circle cx="477" cy="307" r="5" fill="#EB593C"/>
+    <circle cx="452" cy="243" r="5" fill="#EB593C"/>
+    <circle cx="444" cy="149" r="5" fill="#EB593C"/>
+    <circle cx="361" cy="142" r="5" fill="#EB593C"/>
+    <circle cx="402" cy="89" r="5" fill="#EB593C"/>
+    <circle cx="320" cy="88" r="5" fill="#EB593C"/>
+    <circle cx="357" cy="34" r="5" fill="#EB593C"/>
+    <circle cx="273" cy="38" r="5" fill="#EB593C"/>
+    <circle cx="206" cy="5" r="5" fill="#EB593C"/>
+    <circle cx="191" cy="77" r="5" fill="#EB593C"/>
+    <circle cx="263" cy="107" r="5" fill="#EB593C"/>
+    <circle cx="486" cy="167" r="5" fill="#EB593C"/>
+  </g>
+</svg>
