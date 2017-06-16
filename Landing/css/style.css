@@ -3,6 +3,9 @@ html, body {
   font-family: 'Montserrat', sans-serif;
   box-sizing: border-box; }
 
+main {
+  width: 100%; }
+
 h1 {
   font-size: 8rem;
   letter-spacing: 0.5rem;
@@ -61,7 +64,9 @@ a:focus, a:hover {
   width: 100%;
   display: flex;
   flex-flow: row wrap;
-  justify-content: center; }
+  justify-content: center;
+  max-width: none;
+  padding: 0; }
 
 .header {
   height: 70rem;
@@ -79,8 +84,9 @@ a:focus, a:hover {
   text-align: center; }
   .data_block .svg_container {
     position: absolute;
-    align-self: center;
-    width: 40rem; }
+    width: 40rem;
+    left: calc(25% - 20rem);
+    top: calc(50% - 30rem); }
     .data_block .svg_container .graph {
       width: 100%; }
 

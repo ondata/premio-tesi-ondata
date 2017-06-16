@@ -3,10 +3,14 @@ $white: #FFFFFF
 $lightgray: #F4F5F9
 $black: #323F4B
 
+
 html, body
   font-size: 62.5%
   font-family: 'Montserrat', sans-serif
   box-sizing: border-box
+
+main
+  width: 100%
 
 h1
   font-size: 8rem
@@ -67,6 +71,8 @@ a:focus, a:hover
   display: flex
   flex-flow: row wrap
   justify-content: center
+  max-width: none
+  padding: 0
 
 .header
   height: 70rem
@@ -85,9 +91,9 @@ a:focus, a:hover
 
   .svg_container
     position: absolute
-    align-self: center
     width: 40rem
-
+    left: calc(25% - 20rem)
+    top: calc(50% - 30rem)
     .graph
       width: 100%
 
